@@ -135,7 +135,7 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 ---
 
-**Currently open to:** Data Scientist, Analytics Engineer, and Quant roles in BFSI / fintech / enterprise analytics
+**Currently open to:** Data Scientist, Analytics Engineer, and Quant roles in BFSI / fintech/enterprise analytics
 
 ---
 
