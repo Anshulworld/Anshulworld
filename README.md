@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Anshulworld/Anshulworld/blob/main/data_science_banner.png)
+![MasterHead](https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/data_science_banner.png)
 
 <h1 align="center">Hi 👋, I'm Anshul Kumar Singh</h1>
 <h3 align="center">Data Scientist | Proprietary Trader | Analytics Engineer</h3>
@@ -96,21 +96,30 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-**Degree**
 - **MBA in Analytics & Data Science** — Manipal University Jaipur (2026-2028)
 - **B.Sc. Physical Science (Mathematics & Statistics)** — Delhi University (2017-2020)
 
-**Certifications & Specializations**
-- Introduction to Artificial Intelligence (AI)
-- Data Visualization & Dashboard Essentials
-- Python for Data Science, AI & Development
-- Python Project for Data Science
-- Project Delivery in Business Analysis and Capstone
-- Data Science Specialization — Johns Hopkins University
-- SQL Basics for Data Science — UC Davis
-- Python for Everybody — University of Michigan
+---
+
+## 🎓 Certifications & Professional Development
+
+**Currently Pursuing**
+- 🔄 **IBM Data Science Professional Certificate** — *In Progress* (Coursera)
+
+**Completed Certifications**
+- ✅ [**IBM Data Analyst Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/certificate/0YZM9G9JK64P) — IBM / Coursera
+- ✅ [**IBM AI Foundations for Business**](https://www.coursera.org/account/accomplishments/specialization/certificate/II3PI8V2SNUV) — IBM / Coursera
+- ✅ [**Introduction to Artificial Intelligence (AI)**](https://www.coursera.org/learn/introduction-to-ai) — IBM / Coursera
+- ✅ [**Data Visualization & Dashboard Essentials**](https://www.coursera.org/learn/data-visualization-dashboards) — Coursera
+- ✅ [**Python for Data Science, AI & Development**](https://www.coursera.org/learn/python-for-applied-data-science-ai) — IBM / Coursera
+- ✅ [**Python Project for Data Science**](https://www.coursera.org/learn/python-project-for-data-science) — IBM / Coursera
+- ✅ [**Project Delivery in Business Analysis and Capstone**](https://www.coursera.org/learn/project-delivery-business-analysis) — Coursera
+- ✅ [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) — Johns Hopkins University / Coursera
+- ✅ [**SQL Basics for Data Science Specialization**](https://www.coursera.org/account/accomplishments/specialization/5K5LKD43C2U1) — UC Davis / Coursera
+- ✅ [**Microsoft Business Analyst Certificate**](https://www.coursera.org/account/accomplishments/specialization/AE2DLA9WO8R1) — Microsoft / Coursera
+- ✅ [**Python for Everybody Specialization**](https://www.coursera.org/account/accomplishments/specialization/E8O0UWC9CLKW) — University of Michigan / Coursera
 
 ---
 
@@ -135,7 +144,7 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 ---
 
-**Currently open to:** Data Scientist, Analytics Engineer, and Quant roles in BFSI / fintech/enterprise analytics
+**Currently open to:** Data Scientist, Analytics Engineer, and Quant roles in BFSI / fintech / enterprise analytics
 
 ---
 
