@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+![MasterHead](https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/assets/data_science_banner.png)
 
 <h1 align="center">Hi 👋, I'm Anshul Kumar Singh</h1>
 <h3 align="center">Data Scientist | Proprietary Trader | Analytics Engineer</h3>
