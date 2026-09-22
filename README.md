@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/assets/data_science_banner.png)
+![MasterHead](https://github.com/Anshulworld/Anshulworld/blob/main/data_science_banner.png)
 
 <h1 align="center">Hi 👋, I'm Anshul Kumar Singh</h1>
 <h3 align="center">Data Scientist | Proprietary Trader | Analytics Engineer</h3>
