@@ -1,18 +1,142 @@
-# 💫 About Me:
-🔭 I’m currently working on: Pursuing my MBA in Analytics and Data Science and building a strong portfolio of business-driven data projects!<br><br>👯 I’m looking to collaborate on: Strategic analytics projects that bridge the gap between complex datasets and actionable, high-level business insights.<br><br>🤝 I’m looking for help with: Advanced statistical modeling and integrating complex algebraic and mathematical concepts into predictive analytics workflows.<br><br>🌱 I’m currently learning: Advanced Business Analysis fundamentals—diving deep into RASCI matrices, risk mitigation strategies, and mastering schedule dependencies for large-scale data projects.<br><br>💬 Ask me about: Translating business requirements into technical solutions, data-driven decision making, or project management frameworks!<br><br>⚡ Fun fact: I recently took the bold leap of resigning from my previous role to fully dedicate my time and energy to mastering analytics and transforming business strategies!
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 
+<h1 align="center">Hi 👋, I'm Anshul Kumar Singh</h1>
+<h3 align="center">Data Scientist | Proprietary Trader | Analytics Engineer</h3>
+<h3 align="center">Building predictive models and risk systems at the intersection of quantitative strategy and production analytics. Turning complex datasets into high-impact business decisions.</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshulworld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshulworld/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSFp-OZWg1XKTHUUQTI372A) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theanshulworld@gmail.com) 
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Anshulworld&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anshulworld&label=Profile%20views&color=0e75b6&style=flat" alt="Anshulworld" /> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/anshulworld/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a> </p>
+
+- 💬 Ask me about **Data Science, Python, SQL, Machine Learning, Quantitative Trading, Risk Management**
+
+- 📫 How to reach me **theanshulworld@gmail.com**
+
+- ⚡ Fun fact **I managed funded trading accounts while building ML models—talk about managing multiple risk portfolios!**
+
+- 🎓 Currently pursuing **MBA in Analytics & Data Science** at Manipal University Jaipur
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anshulworld&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💼 About Me
+
+**Data Scientist & Proprietary Trader** building predictive models and risk systems at the intersection of quantitative strategy and production analytics. Currently pursuing an **MBA in Analytics & Data Science** at Manipal University Jaipur while actively managing funded trading accounts.
+
+My unconventional path from **Proprietary Trading → Data Science** has shaped how I approach problems: extract signal from noise, manage risk under uncertainty, and execute with discipline. Every trading decision grounds in real-time market analysis and pattern recognition—skills that directly transfer to building robust ML pipelines and financial risk models.
+
+**Core Competencies:**
+- **Quantitative Analysis & Risk Management:** Portfolio optimization, drawdown analysis, statistical backtesting, financial metrics tracking
+- **Predictive Modeling:** Classification models (credit risk, churn prediction), ensemble methods, feature engineering, model validation
+- **Data Engineering:** SQL procedures (PL/pgSQL), normalized database architecture, ETL design, data pipeline automation
+- **Analytics & Visualization:** Power BI, Tableau, Python data stacks (Pandas, NumPy), dashboard design for stakeholder decisions
+- **Programming:** Python (Scikit-learn, TensorFlow, Streamlit), SQL (PostgreSQL, MySQL, Oracle), Excel/VBA
+- **Financial Acumen:** Market microstructure, technical analysis, risk-adjusted returns, capital preservation frameworks
+
+**Recent Work:**
+- Built and deployed **credit risk classification models** using Scikit-learn (Streamlit-based production systems)
+- Designed **normalized SQL databases** with automated procedures for healthcare claim processing (Aetna via Concentrix)
+- Created **Tableau dashboards** for forensic data analysis (Deloitte simulation)
+- Manage **multi-asset portfolios** across forex/financial markets with rigorous performance tracking and optimization
+
+**Target:** Full-time **Data Scientist / Analytics Engineer** roles in **BFSI, fintech, and enterprise analytics** where quantitative rigor and technical execution drive business impact.
+
+---
+
+## 🎯 What I Build
+
+**Predictive Models & Risk Systems**
+- Classification models (credit risk, behavioral prediction) with rigorous train/test validation
+- Backtesting frameworks for trading strategies with statistical significance testing
+- Feature engineering pipelines for high-dimensional financial and operational datasets
+
+**Data Infrastructure**
+- SQL-driven data warehouses with normalized schemas and automated ETL procedures
+- Python-based data pipelines (Pandas, NumPy) for claim processing, market data ingestion, and analysis
+- Production ML systems deployed via Streamlit for real-time scoring and monitoring
+
+**Analytics & Dashboards**
+- Executive dashboards in Power BI / Tableau translating raw data into decision-ready insights
+- Performance tracking systems for portfolio optimization and behavioral pattern identification
+- Forensic data analysis frameworks for anomaly detection and root-cause investigation
+
+**Decision Science**
+- Statistical hypothesis testing and A/B experimentation frameworks
+- Risk-adjusted performance metrics and capital allocation optimization
+- Quantitative strategy development with consistent, disciplined execution under market volatility
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/anshulworld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshulworld" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSFp-OZWg1XKTHUUQTI372A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://anshulworld.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+**Degree**
+- **MBA in Analytics & Data Science** — Manipal University Jaipur (2026-2028)
+- **B.Sc. Physical Science (Mathematics & Statistics)** — Delhi University (2017-2020)
+
+**Certifications & Specializations**
+- Introduction to Artificial Intelligence (AI)
+- Data Visualization & Dashboard Essentials
+- Python for Data Science, AI & Development
+- Python Project for Data Science
+- Project Delivery in Business Analysis and Capstone
+- Data Science Specialization — Johns Hopkins University
+- SQL Basics for Data Science — UC Davis
+- Python for Everybody — University of Michigan
+
+---
+
+## 🚀 Featured Projects
+
+- **Credit Risk Classification Model** — End-to-end ML pipeline (Scikit-learn, Streamlit) predicting loan default probability with feature importance analysis
+- **Healthcare Claims Database** — Normalized SQL architecture with automated PL/pgSQL procedures for Aetna claim processing and SLA tracking
+- **Quantitative Trading Dashboard** — Real-time performance tracking system for multi-asset portfolio with drawdown analysis and risk metrics
+- **Tableau Forensic Analysis** — Data forensics dashboard for anomaly detection and business conclusions (Deloitte simulation)
+
+*See repositories below for implementations, notebooks, and case studies.*
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anshulworld&show_icons=true&locale=en&layout=compact" alt="Anshulworld" /></p>
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Anshulworld&theme=dark&hide_border=false)
+
+---
+
+**Currently open to:** Data Scientist, Analytics Engineer, and Quant roles in BFSI / fintech / enterprise analytics
+
+---
+
+<!-- Proudly created with passion for data and a dash of trading wisdom -->
