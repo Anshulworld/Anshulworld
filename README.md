@@ -110,11 +110,11 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 ### 🏆 Professional Certificate Badges
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/badges/Professional_Certificate_Data_Analyst_Badge.png" alt="IBM Data Analyst" width="120" height="120" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/badges/IBM_Data_Science_Professional_Badge.png" alt="IBM Data Science" width="120" height="120" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/badges/microsoft-business-analyst-professional-certificate_1.png" alt="Microsoft Business Analyst" width="120" height="120" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/badges/google-ai-essentials-v1.png" alt="Google AI Essentials" width="120" height="120" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/badges/google-ai-professional-certificate.png" alt="Google AI Professional" width="120" height="120" style="margin: 10px;"/>
+<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/IBM%20Data%20Science%20Professional%20Badge.png" alt="IBM Data Science" width="120" height="120" style="margin: 10px;"/>
+<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/Professional_Certificate_Data_Analyst_Badge.png" alt="IBM Data Analyst" width="120" height="120" style="margin: 10px;"/>
+<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/microsoft-business-analyst-professional-certificate.1.png" alt="Microsoft Business Analyst" width="120" height="120" style="margin: 10px;"/>
+<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/google-ai-professional-certificate.png" alt="Google AI Professional" width="120" height="120" style="margin: 10px;"/>
+<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/google-ai-essentials-v1.png" alt="Google AI Essentials" width="120" height="120" style="margin: 10px;"/>
 </p>
 
 ### 📜 Detailed Certifications
