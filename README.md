@@ -111,6 +111,7 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/IBM%20Data%20Science%20Professional%20Badge.png" alt="IBM Data Science" width="120" height="120" style="margin: 10px;"/>
+<img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/Professional_Certificate_Data_Analyst_Badge.png" alt="IBM Data Analyst" width="120" height="120" style="margin: 10px;"/>
 <img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/microsoft-business-analyst-professional-certificate.1.png" alt="Microsoft Business Analyst" width="120" height="120" style="margin: 10px;"/>
 <img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/google-ai-professional-certificate.png" alt="Google AI Professional" width="120" height="120" style="margin: 10px;"/>
 <img src="https://raw.githubusercontent.com/Anshulworld/Anshulworld/main/Badges/google-ai-essentials-v1.png" alt="Google AI Essentials" width="120" height="120" style="margin: 10px;"/>
@@ -149,9 +150,13 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://streak-stats.demolab.com/?user=Anshulworld&theme=dark&hide_border=false)<br/>![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anshulworld&show_icons=true&locale=en&layout=compact" alt="Anshulworld" /></p>
 
+<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Anshulworld&theme=dark&hide_border=false)
 
 ---
 
