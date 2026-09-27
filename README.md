@@ -154,7 +154,13 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anshulworld&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulworld&show_icons=true&theme=dark&hide_border=false&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Anshulworld&theme=dark&hide_border=false" alt="GitHub Streak" /> </p>
+![](https://github-readme-stats.vercel.app/api?username=Anshulworld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulworld&theme=dark&hide_border=false&layout=compact)
+
+![](https://streak-stats.demolab.com/?user=Anshulworld&theme=dark&hide_border=false)
+
+---
 
 ---
 
