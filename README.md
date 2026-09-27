@@ -130,12 +130,6 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 - ✅ [**Microsoft Business Analyst Certificate**](https://www.coursera.org/account/accomplishments/specialization/AE2DLA9WO8R1) — Microsoft / Coursera
 - ✅ [**Google AI Essentials**](https://www.coursera.org/) — Google / Coursera
 - ✅ [**Google AI Professional Certificate**](https://www.coursera.org/) — Google / Coursera
-- ✅ [**Introduction to Artificial Intelligence (AI)**](https://www.coursera.org/learn/introduction-to-ai) — IBM / Coursera
-- ✅ [**Data Visualization & Dashboard Essentials**](https://www.coursera.org/learn/data-visualization-dashboards) — Coursera
-- ✅ [**Python for Data Science, AI & Development**](https://www.coursera.org/learn/python-for-applied-data-science-ai) — IBM / Coursera
-- ✅ [**Python Project for Data Science**](https://www.coursera.org/learn/python-project-for-data-science) — IBM / Coursera
-- ✅ [**Project Delivery in Business Analysis and Capstone**](https://www.coursera.org/learn/project-delivery-business-analysis) — Coursera
-- ✅ [**Data Science Specialization**](https://www.coursera.org/specializations/jhu-data-science) — Johns Hopkins University / Coursera
 
 ---
 
