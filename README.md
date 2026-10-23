@@ -119,10 +119,9 @@ My unconventional path from **Proprietary Trading → Data Science** has shaped 
 
 ### 📜 Detailed Certifications
 
-**Currently Pursuing**
-- 🔄 **IBM Data Science Professional Certificate** — *In Progress* (Coursera)
-
 **Completed Certifications**
+- ✅ [**IBM Data Science Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/H0UWRFW3794Z) — IBM / Coursera
+- ✅ [**Data Science Fundamentals with Python and SQL**](https://www.coursera.org/account/accomplishments/specialization/21RVUFEEO7OR) — IBM / Coursera
 - ✅ [**IBM Data Analyst Professional Certificate**](https://www.coursera.org/account/accomplishments/professional-cert/certificate/0YZM9G9JK64P) — IBM / Coursera
 - ✅ [**IBM AI Foundations for Business**](https://www.coursera.org/account/accomplishments/specialization/certificate/II3PI8V2SNUV) — IBM / Coursera
 - ✅ [**SQL Basics for Data Science Specialization**](https://www.coursera.org/account/accomplishments/specialization/5K5LKD43C2U1) — UC Davis / Coursera
